@@ -4,15 +4,18 @@
     box-sizing: border-box;
 }
 header{
+    padding-left: 25px;
+    padding-top: 50px;
+    height: 100px;
     background-color: blue;
-    background-image: url(../html-css-booleaner/img/pattern.png);
-    background-repeat: repeat-x;
+    background-image: url("./img/pattern.png");
+    background-size: 300px;
 }
 main{
     padding: 1rem;
 }
 .pattern{
-    
+    background: repeat-x;
     width: 140px;    
 }
 
@@ -58,4 +61,23 @@ footer{
 }
 h4{
     padding-bottom: 1rem;
+}
+span{
+    color: grey;
+}
+.w25{
+    width: 25%;
+}
+w50{
+    width: 50%;
+}
+.monitor{
+    width: 312px;
+    height: 208px;
+    background-image: url(./img/monitor.jpg);
+}
+.grafico{
+    width: 311px;
+    height: 207px;
+    background-image: url(./img/graph.jpg);
 }
