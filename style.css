@@ -81,3 +81,11 @@ w50{
     height: 207px;
     background-image: url(./img/graph.jpg);
 }
+h2{
+    color: white;
+    padding: 1rem;
+}
+.link_utili{
+    padding-bottom: 1rem;
+    color: grey;
+}
