@@ -38,3 +38,15 @@ article{
 ul{
     padding: 1rem;
 }
+thead{
+    background-color: blue;
+}
+.row1{
+    background-color: aquamarine;
+}
+.row3{
+    background-color: aquamarine;
+}
+.paragrafo2{
+    padding-top: 1rem;
+}
