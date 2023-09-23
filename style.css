@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: blue;
+    background-image: url(../html-css-booleaner/img/pattern.png);
+    background-repeat: repeat-x;
+}
+main{
+    padding: 1rem;
+}
+.pattern{
+    
+    width: 140px;    
+}
+
+.logo{
+    width: 140px;
+}
+
+h4{
+    color: gray;
+}
+.boolean{
+    color: blue;
+}
+.date{
+    color: grey;
+}
+.photo{
+    padding: 1rem;
+}
+article{
+    padding: 1rem;
+}
+ul{
+    padding: 1rem;
+}
